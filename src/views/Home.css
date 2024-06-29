@@ -7,7 +7,7 @@
     margin-top: 15rem;
     height: 500px;
     width: 500px;
-    background-color: #ffffff;
+    background-color: #00725f;
     margin: 5px auto;
     border-radius: 10px;
     padding: 5px;
@@ -19,7 +19,7 @@
 }
 
 .todolist-container::-webkit-scrollbar-track {
-    background: #f1f1f1; /* Background of the scrollbar track */
+    background: #044545; /* Background of the scrollbar track */
     border-radius: 20px; /* Round corners of the track */
 }
 
